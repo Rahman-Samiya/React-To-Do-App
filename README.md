@@ -86,6 +86,6 @@ todo-app/
 | `npm run build` | Create production build |
 | `npm run preview` | Preview production build |
 
-## License
-
-MIT
+## Author 
+Samiya Rahman
+samiya.r.cse.2k23@gmail.com
